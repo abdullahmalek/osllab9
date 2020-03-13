@@ -1,0 +1,1 @@
+This file will be committed to local branch using "git commit -a"(no "git add" will be used).
